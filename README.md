@@ -16,4 +16,5 @@
 - version 11
 
 
-![alt text](https://github.com/FPG1THUB/The-Wall-i-Project/blob/main/Photos/Wall-i.png)![alt text](https://github.com/FPG1THUB/The-Wall-i-Project/blob/main/Photos/Wall-i-Rigging.png)
+![alt text](https://github.com/FPG1THUB/The-Wall-i-Project/blob/main/Photos/Wall-i.png)
+![alt text](https://github.com/FPG1THUB/The-Wall-i-Project/blob/main/Photos/Wall-i-Rigging.PNG)
